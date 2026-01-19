@@ -44,7 +44,7 @@ nav a:hover {
 
 /* HERO */
 .hero {
-  background: url("../images/hero.jpg") center/cover no-repeat;
+  background: url("https://images.ctfassets.net/09muo917z9ra/1dHIaG3gmffG1gNNy8wNhY/b56969d7120f6fccc48483b4b14cce20/pexels-thomas-fuhrmann-2154366194-33484883__2_.jpg") center/cover no-repeat;
   height: 80vh;
   position: relative;
 }
